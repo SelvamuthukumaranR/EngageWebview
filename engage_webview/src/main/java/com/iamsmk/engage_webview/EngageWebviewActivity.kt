@@ -1,15 +1,11 @@
 package com.iamsmk.engage_webview
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.webkit.PermissionRequest
 import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import android.widget.Toast
-import androidx.core.content.ContextCompat
 import com.iamsmk.engage_webview.databinding.ActivityEngageWebviewBinding
 
 class EngageWebviewActivity : AppCompatActivity() {
