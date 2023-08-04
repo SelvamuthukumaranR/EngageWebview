@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "EngageWebview"
-include ':Library'
+include ':app'
 include ':engage_webview'
